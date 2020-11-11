@@ -1,0 +1,7 @@
+﻿  Using triplet "x86-windows" from "D:\vcpkg-master\vcpkg-master\installed\x86-windows\"
+  main.cpp
+D:\c++\visualstudio\1git\phs-sim\phs-sim\phs-sim\src\main.cpp(5,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\c++\visualstudio\1git\phs-sim\phs-sim\phs-sim\src\main.cpp(20,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++\visualstudio\1git\phs-sim\phs-sim\phs-sim\src\main.cpp(27,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\c++\visualstudio\1git\phs-sim\phs-sim\phs-sim\src\main.cpp(28,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  phs-sim.vcxproj -> D:\c++\visualstudio\1git\phs-sim\phs-sim\Debug\phs-sim.exe
