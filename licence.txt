@@ -1,1 +1,1 @@
-ECHO is on.
+use of the code is forbidden unless given direct permmision by the author
