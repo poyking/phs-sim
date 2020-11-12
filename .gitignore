@@ -5,6 +5,7 @@
 *.db-shm
 *.db-wal
 *.opendb
+*.html
 
 # Compiled Object files
 *.slo
